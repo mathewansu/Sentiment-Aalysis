@@ -1,4 +1,4 @@
-# Sentiment-Aalysis
+# Sentiment-Analysis
 #NLP #Random Forest
 ## Context:
 
